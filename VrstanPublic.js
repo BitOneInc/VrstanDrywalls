@@ -1,8 +1,8 @@
-/* This File is Property of Claremont Drive Citizens Association.
+/* This File is Property of BitOneIncorporated.
 	Created: Sunday January 28 2018
 	Author: Ian A. Moncrieffe
 	Tel: 1876-778-6804
-	email: cdc.assoc@gmail.com
+	email: dev.bitone@outlook.com
 */
 // Requirements
 
